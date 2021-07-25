@@ -19,7 +19,7 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 #### Github Stats 📊
 
-[![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly!
