@@ -17,6 +17,16 @@ I'm an avid Smart Contract/Blockchain Software Engineer with an experience in Bl
 
 This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `19-July-2021`.
 
+### Blockchain
+<img src="./images/blockchain_languages.png" alt="Blockchain languages" width="180"/>
+
+__C++, Solidity, Vyper__
+
+### Data Science
+<img src="./images/DataScience_languages.png" alt="Data Science languages" width="180"/>
+
+__Python, Excel, Pandas, Plotly, Dash__
+
 #### Github Stats 📊
 
 [![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
