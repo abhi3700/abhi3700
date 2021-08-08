@@ -3,7 +3,7 @@
 [![Abhijit Roy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi3700/)
 [![Abhijit Roy Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhi3700.medium.com/)
 [![Abhijit Roy Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhi3700)
-[![Abhijit Roy Steemit](https://raw.githubusercontent.com/abhi3700/dummy_data_DONT_DELETE/master/steemit_badge.png)](https://steemit.com/@abhi3700)
+[![Abhijit Roy Steemit](./img/steemit_badge.png)](https://steemit.com/@abhi3700)
 [![Block.Hub Academy YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmALtcbNcPUFyWbpF3XyM7Q)
 [![Abhijit Roy Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/dalvath3700@gmail.com)
 [![Abhijit Roy StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6774636/abhi3700)
