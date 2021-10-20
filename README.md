@@ -31,5 +31,6 @@ __Python, Excel, Pandas, Plotly, Dash__
 
 [![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, email me or create issue here in this repo.!
