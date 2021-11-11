@@ -20,6 +20,24 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 ### Blockchain
 <img src="./img/blockchain_languages.png" alt="Blockchain languages" width="180"/>
 
+#### Projects completed on EVM Blockchains
+* [Staking contract with unlocking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
+* [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens ](https://github.com/abhi3700/evm_contracts_vaultscoin)
+* [Token contract with timelock functionality for tokens purchased at DEXes like Uniswap, Pancakeswap](https://github.com/abhi3700/evm_contracts_tokendex)
+* [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
+* [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
+
+#### Projects completed on EOSIO Blockchains
+* [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
+* [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
+* Rehabilitation centre: [Stake contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumstake), [ICO contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumico)
+* GPK.Battles Game on WAX Blockchain: [Game contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbattlesco), [Escrow contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbatescrow)
+* Tip multiple tokens to user(s) on Telegram: [contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
+* [Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
+* Tip multiple tokens to user(s) on Telegram: [Contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
+* Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
+* [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
+
 __C++, Solidity, Vyper__
 
 ### Data Science
