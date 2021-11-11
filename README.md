@@ -18,7 +18,9 @@ I'm an avid Smart Contract/Blockchain Software Engineer with an experience in Bl
 This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `07-Nov-2021`.
 
 ### Blockchain
-<img src="./img/blockchain_languages.png" alt="Blockchain languages" width="180"/>
+ <img src="./img/blockchain_languages.png" alt="Blockchain languages" width="180"/>
+<img src="./img/blockchain_testing_frameworks.png" alt="Hardhat" width="150"/>
+
 
 #### Projects completed on EVM Blockchains
 * [Staking contract with unlocking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
