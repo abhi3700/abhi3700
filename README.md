@@ -19,6 +19,9 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 ### Blockchain
  <img src="./img/blockchain_languages.png" alt="Blockchain languages" width="180"/>
+ 
+ __C++, Solidity, Vyper__
+ 
 <img src="./img/blockchain_testing_frameworks.png" alt="Hardhat" width="150"/>
 
 
@@ -40,8 +43,6 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 * Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 * [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
 
-__C++, Solidity, Vyper__
-
 ### Data Science
 <img src="./img/DataScience_languages.png" alt="Data Science languages" width="180"/>
 
@@ -50,6 +51,10 @@ __Python, Excel, Pandas, Plotly, Dash__
 #### Github Stats 📊
 
 [![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+🎯 Github Streaks and Trophies 🏆
+
+[![Abhijit's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=abhi3700&theme=flag-india)](https://github.com/abhi3700)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
