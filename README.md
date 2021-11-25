@@ -2,6 +2,8 @@
     
 [![Abhijit Roy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi3700/)
 [![Abhijit Roy Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhi3700.medium.com/)
+[![Abhijit Roy Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abhi3700)
+[![Abhijit Roy Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/abhi3700#3448)
 [![Abhijit Roy Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhi3700)
 [![Abhijit Roy Steemit](./img/steemit_badge.png)](https://steemit.com/@abhi3700)
 [![Block.Hub Academy YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmALtcbNcPUFyWbpF3XyM7Q)
@@ -15,7 +17,7 @@ I'm an avid Smart Contract/Blockchain Software Engineer with an experience in Bl
 
 [I am a tech entrepreneur who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.](https://user-images.githubusercontent.com/16472948/126898580-3c06952e-9a37-42e3-937b-cec870cc297d.png)
 
-This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `07-Nov-2021`.
+This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `17-Nov-2021`.
 
 ### Blockchain
  <img src="./img/blockchain_languages.png" alt="Blockchain languages" width="180"/>
