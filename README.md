@@ -28,8 +28,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 
 #### Projects completed on EVM Blockchains
-* [Staking contract with unlocking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
-* [Staking contract that for reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking)
+* [Staking contract with unstaking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
+* [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking)
 * [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens ](https://github.com/abhi3700/evm_contracts_vaultscoin)
 * [Token contract with timelock functionality for tokens purchased at DEXes like Uniswap, Pancakeswap](https://github.com/abhi3700/evm_contracts_tokendex)
 * [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
