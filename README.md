@@ -32,10 +32,14 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 #### Projects completed on EVM Blockchains
 * [Staking contract with unstaking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
-* [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking)
-* [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens ](https://github.com/abhi3700/evm_contracts_vaultscoin)
+  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x1172717B46FfeF0b0aa20a0734A9Ec5388F078F8)
+* [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking) 
+  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x0FF7850D1230e2B7A1aEc52CcBb5208A05cb429c)
+* [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens](https://github.com/abhi3700/evm_contracts_vaultscoin)
+  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x61355503969842fB7931617123e7FC9a0b916c97)
 * [Token contract with timelock functionality for tokens purchased at DEXes like Uniswap, Pancakeswap](https://github.com/abhi3700/evm_contracts_tokendex)
 * [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
+  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xE92C70F2E2e556159827A25EA00C63493Ea5Ebe0)
 * [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
 
 #### Projects completed on EOSIO Blockchains
