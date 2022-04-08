@@ -41,6 +41,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 * [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
   - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xE92C70F2E2e556159827A25EA00C63493Ea5Ebe0)
 * [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
+* [Generative Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/generative_nft_art)
+* [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
 
 #### Projects completed on EOSIO Blockchains
 * [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
