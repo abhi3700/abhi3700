@@ -31,6 +31,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 
 #### Projects completed on EVM Blockchains
+* [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
+  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xDda3CF9d2489e8BCC13FaB5a561eE6bC6B674b90)
 * [Staking contract with unstaking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
   - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x1172717B46FfeF0b0aa20a0734A9Ec5388F078F8)
 * [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking) 
