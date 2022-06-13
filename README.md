@@ -20,7 +20,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 
 
 ### CV
-This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `13-Apr-2022`.
+This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `13-June-2022`.
 
 ### Blockchain
  <img src="./img/blockchain_languages.jpg" alt="Blockchain languages" width="220"/>
