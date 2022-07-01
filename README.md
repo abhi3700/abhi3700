@@ -33,6 +33,7 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 #### Projects completed on EVM Blockchains
 * [Contribution to OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
 * [Contribution to Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
+* [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
 * [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
   - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
 * [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
