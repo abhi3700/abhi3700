@@ -1,4 +1,7 @@
 <h2> Hi there 👋, I'm Abhijit Roy! </h2>
+
+<img width="1280" alt="About Me" src="https://user-images.githubusercontent.com/16472948/177983840-54b265a0-9d72-43d9-b529-254634a0cc5f.png">
+
     
 [![Abhijit Roy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi3700/)
 [![Abhijit Roy Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhi3700.medium.com/)
