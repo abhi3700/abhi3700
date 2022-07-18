@@ -34,8 +34,9 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 
 
 #### Projects completed on EVM Blockchains
-* [Contribution to OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
-* [Contribution to Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
+* Contribution to Open Source Projects:
+  - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
+  - [Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
 * [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
 * [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
   - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
@@ -55,12 +56,13 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 * [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
 
 #### Projects completed on EOSIO Blockchains
+* Contribution to Open Source Projects:
+  - [Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 * [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
 * [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
 * Rehabilitation centre: [Stake contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumstake), [ICO contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumico)
 * GPK.Battles Game on WAX Blockchain: [Game contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbattlesco), [Escrow contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbatescrow)
 * Tip multiple tokens to user(s) on Telegram: [contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
-* [Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 * Tip multiple tokens to user(s) on Telegram: [Contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
 * Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 * [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
