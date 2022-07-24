@@ -1,8 +1,7 @@
 <h2> Hi there 👋, I'm Abhijit Roy! </h2>
 
-<img width="1280" alt="about_me" src="https://user-images.githubusercontent.com/16472948/177988031-26d4866e-b003-4c39-a192-93558d7eb2a1.png">
+<img width="1280" alt="about_me" src="https://user-images.githubusercontent.com/16472948/180639972-e4a1e382-8e5d-4a4f-b836-8eb110b1d549.png">
 
-    
 [![Abhijit Roy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi3700/)
 [![Abhijit Roy Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhi3700.medium.com/)
 [![Abhijit Roy Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abhi3700)
