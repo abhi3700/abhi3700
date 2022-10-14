@@ -22,7 +22,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 
 
 ### CV
-This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `07-Oct-2022`.
+This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf) which was last updated on `14-Oct-2022`.
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
 ### Blockchain
@@ -62,7 +62,6 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/master/my_resume.pdf)
 * [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
 * Rehabilitation centre: [Stake contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumstake), [ICO contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumico)
 * GPK.Battles Game on WAX Blockchain: [Game contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbattlesco), [Escrow contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbatescrow)
-* Tip multiple tokens to user(s) on Telegram: [contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
 * Tip multiple tokens to user(s) on Telegram: [Contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
 * Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 * [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
