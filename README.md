@@ -22,7 +22,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 
 
 ### CV
-This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `14-Oct-2022`.
+This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `02-Nov-2022`.
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
 ### Blockchain
@@ -38,6 +38,7 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
   - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
 * [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
+* [Worked on Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
 * [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
   - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
 * [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
