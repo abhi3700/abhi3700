@@ -57,7 +57,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
 
 #### Projects completed on Substrate chain
-* [Contribution to `ink`](https://github.com/paritytech/ink/pull/1583)
+* Contribution to Open Source Projects:
+  - [`ink`](https://github.com/paritytech/ink/pull/1583)
 * [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
 * [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
