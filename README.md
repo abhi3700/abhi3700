@@ -22,7 +22,7 @@ A Tech Entrepreneur having 6 years of experience in Software development - Data 
 
 
 ### CV
-This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `23-Jan-2023`.
+This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `26-Apr-2023`.
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
 ### Blockchain
@@ -37,6 +37,7 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * Contribution to Open Source Projects:
   - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
+  - STFX (private repo)
 * [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
 * [Worked on Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
 * [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
@@ -56,9 +57,12 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * [Generative Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/generative_nft_art)
 * [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
 
-#### Projects completed on Substrate chain
+#### Projects completed on Substrate chain (Rust)
 * Contribution to Open Source Projects:
   - [`ink`](https://github.com/paritytech/ink/pull/1583)
+  - [Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
+  - [rust-lang/rustlings](https://github.com/rust-lang/rustlings/pull/1472)
+* [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground)
 * [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
 * [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
