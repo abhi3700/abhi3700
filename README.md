@@ -17,15 +17,15 @@
 
 I'm an avid Smart Contract/Blockchain Software Engineer with an experience in Blockchains like EOS, Telos, WAX, Ethereum, Binance Smart Chain, Polygon, Avalanche, Substrate, Solana, NEO & its derivative chains.
 
-### Bio
+## Bio
 A Tech Entrepreneur having 6 years of experience in Software development - Data Science, Bots, Android, but specialized in Blockchain protocols like EOSIO, EVM, Solana. He was the founding CTO of DRIFE, Lead Blockchain Developer of Boot Finance, Senior Blockchain Engineer at Master Ventures. He has developed several projects related to NFT, DeFi, Betting game and in utility category. He also built the product called 'BitInfoCoin' which was featured with crypto information, prices, nearby ATMs. He was also one of the winners in hackathons like WBS, SNI. He is committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
 
 
-### CV
+## CV
 This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `26-Apr-2023`.
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
-### Blockchain
+## Blockchain
  <img src="./img/blockchain_languages.jpg" alt="Blockchain languages" width="220"/>
  
  __C++, Solidity, Vyper__, __Rust__
@@ -33,32 +33,35 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 <img src="./img/blockchain_testing_frameworks.png" alt="Hardhat" width="150"/>
 
 
-#### Projects completed on EVM Blockchains
-* Contribution to Open Source Projects:
+### Contribution related to EVM Blockchains
+* Open Source Projects:
   - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2](https://github.com/Uniswap/v2-core/pull/163)
   - STFX (private repo)
-* [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
-* [Worked on Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
-* [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
-* [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xDda3CF9d2489e8BCC13FaB5a561eE6bC6B674b90)
-* [Staking contract with unstaking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x1172717B46FfeF0b0aa20a0734A9Ec5388F078F8)
-* [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking) 
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x0FF7850D1230e2B7A1aEc52CcBb5208A05cb429c)
-* [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens](https://github.com/abhi3700/evm_contracts_vaultscoin)
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x61355503969842fB7931617123e7FC9a0b916c97)
-* [Token contract with timelock functionality for tokens purchased at DEXes like Uniswap, Pancakeswap](https://github.com/abhi3700/evm_contracts_tokendex)
-* [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
-  - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xE92C70F2E2e556159827A25EA00C63493Ea5Ebe0)
-* [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
-* [Generative Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/generative_nft_art)
-* [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
+* Using Foundry:
+  * [Autcompound Vault based on Tetu protocol formula](https://github.com/abhi3700/evm_contracts_vaultautocomp)
+* Using Hardhat:
+  * [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
+  * [Worked on Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
+  * [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
+  * [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xDda3CF9d2489e8BCC13FaB5a561eE6bC6B674b90)
+  * [Staking contract with unstaking features based on different levels](https://github.com/abhi3700/evm_contracts_staking)
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x1172717B46FfeF0b0aa20a0734A9Ec5388F078F8)
+  * [Staking contract with unstaking feature along with reward distribution for different ERC20 tokens](https://github.com/abhi3700/evm_contracts_multistaking) 
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x0FF7850D1230e2B7A1aEc52CcBb5208A05cb429c)
+  * [Vault contract with deposit/withdraw of ETH & mint/burn of native tokens](https://github.com/abhi3700/evm_contracts_vaultscoin)
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x61355503969842fB7931617123e7FC9a0b916c97)
+  * [Token contract with timelock functionality for tokens purchased at DEXes like Uniswap, Pancakeswap](https://github.com/abhi3700/evm_contracts_tokendex)
+  * [Computationally efficient contract for calculating on-chain average token price for DeFi protocols](https://github.com/abhi3700/evm_contracts_defiavgprice)
+    - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0xE92C70F2E2e556159827A25EA00C63493Ea5Ebe0)
+  * [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
+  * [Generative Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/generative_nft_art)
+  * [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
 
-#### Projects completed on Substrate chain (Rust)
-* Contribution to Open Source Projects:
+### Contribution related to Substrate, Polkadot, Kusama (Rust)
+* Open Source Projects:
   - [`ink`](https://github.com/paritytech/ink/pull/1583)
   - [Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
   - [rust-lang/rustlings](https://github.com/rust-lang/rustlings/pull/1472)
@@ -66,8 +69,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
 * [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
-#### Projects completed on EOSIO Blockchains
-* Contribution to Open Source Projects:
+### Contribution related to EOSIO Blockchains
+* Open Source Projects:
   - [Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 * [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
 * [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
@@ -77,12 +80,12 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 * [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
 
-### Data Science
+## Data Science
 <img src="./img/DataScience_languages.png" alt="Data Science languages" width="180"/>
 
 __Python, Excel, Pandas, Plotly, Dash__
 
-#### Github Stats 📊
+### Github Stats 📊
 
 [![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
