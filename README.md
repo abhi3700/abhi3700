@@ -22,16 +22,10 @@ An accomplished Tech Entrepreneur with seven years of experience in software dev
 
 
 ## CV
-This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) which was last updated on `26-Apr-2023`.
+This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf).
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
 ## Blockchain
- <img src="./img/blockchain_languages.jpg" alt="Blockchain languages" width="220"/>
- 
- __C++, Solidity, Vyper__, __Rust__
- 
-<img src="./img/blockchain_testing_frameworks.png" alt="Hardhat" width="150"/>
-
 
 ### Contribution related to EVM Blockchains
 * Open Source Projects:
@@ -62,7 +56,8 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 
 ### Contribution related to Substrate, Polkadot, Kusama (Rust)
 * Open Source Projects:
-  - [`ink`](https://github.com/paritytech/ink/pull/1583)
+  - [paritytech/substrate](https://github.com/paritytech/substrate/pull/14348)
+  - [paritytech/ink](https://github.com/paritytech/ink/pull/1583)
   - [Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
   - [rust-lang/rustlings](https://github.com/rust-lang/rustlings/pull/1472)
 * [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground)
@@ -79,20 +74,5 @@ This is my [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf) w
 * Tip multiple tokens to user(s) on Telegram: [Contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
 * Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 * [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
-
-## Data Science
-<img src="./img/DataScience_languages.png" alt="Data Science languages" width="180"/>
-
-__Python, Excel, Pandas, Plotly, Dash__
-
-### Github Stats 📊
-
-[![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=abhi3700&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-🎯 Github Streaks and Trophies 🏆
-
-[![Abhijit's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=abhi3700&theme=flag-india)](https://github.com/abhi3700)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, email me or create issue here in this repo.!
