@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Abhijit Roy! </h2>
 
-<img width="1280" alt="about_me" src="https://user-images.githubusercontent.com/16472948/180639972-e4a1e382-8e5d-4a4f-b836-8eb110b1d549.png">
+<img width="1280" alt="about_me" src="https://github.com/abhi3700/abhi3700/assets/16472948/d134f685-52b8-450e-b5ba-4a376745c0f3">
 
 [![Abhijit Roy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi3700/)
 [![Abhijit Roy Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhi3700.medium.com/)
