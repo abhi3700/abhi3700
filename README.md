@@ -22,7 +22,7 @@ An accomplished Tech Entrepreneur with seven years of experience in software dev
 
 
 ## CV
-This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf).
+This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume_v2.pdf).
 > Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
 
 ## Blockchain
