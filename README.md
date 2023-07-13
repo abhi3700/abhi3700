@@ -60,7 +60,9 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
   - [paritytech/ink](https://github.com/paritytech/ink/pull/1583)
   - [Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
   - [rust-lang/rustlings](https://github.com/rust-lang/rustlings/pull/1472)
-* [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground)
+* [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground):
+  - [Bank Pallet](https://crates.io/crates/pallet-bank)
+  - [DPoS Pallet]() coming soon...
 * [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
 * [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
