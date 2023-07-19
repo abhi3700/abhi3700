@@ -66,6 +66,10 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 * [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
 * [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
+### Contribution related to Aptos, Sui (Move)
+* Open Source Projects:
+  - [MystenLabs/sui | [FIX] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
+
 ### Contribution related to EOSIO Blockchains
 * Open Source Projects:
   - [Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
