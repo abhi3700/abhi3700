@@ -74,7 +74,8 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 ### Contribution related to Aptos, Sui (Move)
 
 - Open Source Projects:
-  - [MystenLabs/sui | [FIX] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
+  - [MystenLabs/sui | [Fix] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
+  - [MystenLabs/sui | [Feat] Add tests for pay module](https://github.com/MystenLabs/sui/pull/13074)
 
 ### Contribution related to EOSIO Blockchains
 
