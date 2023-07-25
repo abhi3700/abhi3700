@@ -64,6 +64,7 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
   - [paritytech/ink | [Feat] Added Debug trait for EmittedEvent](https://github.com/paritytech/ink/pull/1583)
   - [rusty-crewmates/substrate-tutorials | Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
   - [rust-lang/rustlings | [Feat] Added exercise to "traits" chapter](https://github.com/rust-lang/rustlings/pull/1472)
+  - [Subwasm CLI tool](https://github.com/chevdor/subwasm/pull/82)
 - [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground):
   - [Bank Pallet](https://crates.io/crates/pallet-bank)
   - [DPoS Pallet]() coming soon...
