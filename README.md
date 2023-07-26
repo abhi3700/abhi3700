@@ -31,15 +31,16 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 
 ### Contribution related to EVM Blockchains
 
-- Open Source Projects:
-  - [OpenZeppelin | [Fix] Modify ReentrancyGuard to reduce contract size](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
+- **Open Source Projects**:
+  - [OpenZeppelin | [Fix] Modify ReentrancyGuard to reduce contract size by 0.03 KB per usage](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2 | [Feat] checkContract added for check of non-destroyed deployed SC](https://github.com/Uniswap/v2-core/pull/163)
-  - STFX (private repo)
+  - STFX `[private repo]`
 - Using Foundry:
   - [Autcompound Vault based on Tetu protocol formula](https://github.com/abhi3700/evm_contracts_vaultautocomp)
 - Using Hardhat:
-  - [Worked on a CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
-  - [Worked on Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
+  - [CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
+  - Bonding curve based Crowdfunding Smart contract using Diamond Standard `[private repo]`
+  - [Auction for fungible/non-fungible token](https://github.com/abhi3700/evm_contracts_auction)
   - [A Vault SC with Deposit & Reward tokens as 1% APY](https://github.com/abhi3700/evm_contracts_vaultLend)
     - [Deployed on Rinkeby Testnet](https://rinkeby.etherscan.io/address/0x4939463F9285097d7BfCB5B72B0649c59BF5C637)
   - [Escrow contract with payer, payee, releaser](https://github.com/abhi3700/evm_contracts_escrow)
@@ -59,28 +60,28 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 
 ### Contribution related to Substrate, Polkadot, Kusama (Rust)
 
-- Open Source Projects:
+- **Open Source Projects**:
   - [paritytech/substrate | [Fix] Update Pallet placeholder struct as per FRAME v2](https://github.com/paritytech/substrate/pull/14348)
   - [paritytech/ink | [Feat] Added Debug trait for EmittedEvent](https://github.com/paritytech/ink/pull/1583)
   - [rusty-crewmates/substrate-tutorials | Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
   - [rust-lang/rustlings | [Feat] Added exercise to "traits" chapter](https://github.com/rust-lang/rustlings/pull/1472)
   - [Subwasm CLI tool](https://github.com/chevdor/subwasm/pull/82)
 - [My Substrate Playground with multiple pallets](https://github.com/abhi3700/substrate-playground):
-  - [Bank Pallet](https://crates.io/crates/pallet-bank)
-  - [DPoS Pallet]() coming soon...
+  - Bank Pallet: [Github](https://github.com/substrate-developer-hub/substrate-node-template/blob/main/pallets/bank), [crates.io](https://crates.io/crates/pallet-bank)
+  - [EOSIO System Pallet](https://github.com/substrate-developer-hub/substrate-node-template/blob/main/pallets/eosio_system) 🧑🏻‍💻
 - `ink!` smart contracts:
   - [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
   - [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
 
 ### Contribution related to Aptos, Sui (Move)
 
-- Open Source Projects:
+- **Open Source Projects**:
   - [MystenLabs/sui | [Fix] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
   - [MystenLabs/sui | [Feat] Add tests for pay module](https://github.com/MystenLabs/sui/pull/13074)
 
 ### Contribution related to EOSIO Blockchains
 
-- Open Source Projects:
+- **Open Source Projects**:
   - [Documentation | Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 - [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
 - [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
@@ -90,4 +91,4 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 - Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 - [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
 
-Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, email me or create issue here in this repo.!
+Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dalvath3700@gmail.com) me to <kbd>dalvath3700@gmail.com</kbd> or create issue here in this repo.!
