@@ -35,6 +35,8 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
   - [OpenZeppelin | [Fix] Modify ReentrancyGuard to reduce contract size by 0.03 KB per usage](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2 | [Feat] checkContract added for check of non-destroyed deployed SC](https://github.com/Uniswap/v2-core/pull/163)
   - STFX `[private repo]`
+- Using Yul:
+  - Gas analysis for [ADD](https://github.com/abhi3700/evm_playground/blob/main/docs/add_comparo_yul.pdf), [SUB](https://github.com/abhi3700/evm_playground/blob/main/docs/sub_comparo_yul.pdf)
 - Using Foundry:
   - [Autcompound Vault based on Tetu protocol formula](https://github.com/abhi3700/evm_contracts_vaultautocomp)
 - Using Hardhat:
