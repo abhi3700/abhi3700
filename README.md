@@ -29,6 +29,10 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 
 ## Blockchain
 
+### Contribution to Zero Knowledge Proof (ZKP)
+
+- [Facebook Winterfell | [Feat] Added Debug, Clone traits to TraceTable](https://github.com/facebook/winterfell/pull/210)
+
 ### Contribution related to EVM Blockchains
 
 - **Open Source Projects**:
