@@ -20,23 +20,39 @@ As a passionate and seasoned Software Engineer, I specialize in Blockchain and b
 
 ## Bio
 
-An accomplished Tech Entrepreneur with seven years of experience in software development, specializing in Blockchain protocols such as EOSIO, EVM, Solana, Sui. Notable for founding CTO role at DRIFE, and leadership positions as Lead Blockchain Developer at Boot Finance and Senior Blockchain Engineer at Master Ventures. His extensive project portfolio includes innovative work in the realms of NFTs, DeFi, and Betting games, along with notable utility projects. He is the creative force behind 'BitInfoCoin', a comprehensive crypto information platform featuring real-time prices and locations of nearby ATMs, which gained significant recognition in the industry. His technical expertise has been recognized through victories in high-profile hackathons, including WBS and SNI. A dedicated innovator, he is deeply committed to leveraging technology for societal benefit, with a particular emphasis on promoting transparency, incentivization, and decision-making rights in business practices.
+I am an Agnostic Software Engineer specialized in Blockchain technology with 8 years of
+experience as CTO, HoD, Lead/Senior Blockchain Engineer in multiple Web3 startups/projects
+mostly in Smart contract & Backend in DeFi, NFT, Gaming, Protocol, etc. I hold development
+experience in multiple protocols like EVM, EOSIO, Substrate, Solana, Sui; contributed in many open-source
+projects as well.
 
 ## CV
 
 This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume_v2.pdf).
 
-> Please <kbd>download</kbd> & <kbd>open</kbd> in Adobe PDF Reader App for access to hyperlinks.
+> Please <kbd>download</kbd> to view <kbd>view</kbd> in "Adobe PDF Reader" App for clickable links.
 
 ## Blockchain
 
-### Contribution to Zero Knowledge Proof (ZKP)
+Following are my contributions to Open-Source projects & Startup/Company's...
 
+<details><summary><b>CCIP Protocols</b></summary>
+
+- Built a native cross-chain bridge based on custom LayerZero contracts between Subspace's EVM and other EVM chains using Solidity &
+TypeScript; also, extensive Foundry unit & integration testing done; found security vulnerability & raised a [bug bounty report](https://github.com/abhi3700/dummy_data_DONT_DELETE/blob/master/Immunefi_bug_report.pdf). <br/>
+  [Repo](https://github.com/autonomys/layerzero-playground), [Full Report](https://github.com/abhi3700/dummy_data_DONT_DELETE/blob/master/Nova%20LayerZero%20Implementation%20feb9b07acc774260a29312ac14f00726.pdf)
+</details>
+
+<details>
+  <summary><b>Zero Knowledge Proof (ZKP)</b></summary>
+  
 - [Facebook Winterfell | [Feat] Added Debug, Clone traits to TraceTable](https://github.com/facebook/winterfell/pull/210)
+</details>
 
-### Contribution related to EVM Blockchains
+<details>
+  <summary><b>EVM chains</b></summary>
 
-- **Open Source Projects**:
+- **Open-source Projects**:
   - [OpenZeppelin | [Fix] Modify ReentrancyGuard to reduce contract size by 0.03 KB per usage](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3515)
   - [Uniswap v2 | [Feat] checkContract added for check of non-destroyed deployed SC](https://github.com/Uniswap/v2-core/pull/163)
   - STFX `[private repo]`
@@ -64,10 +80,12 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
   - [Different types of vesting contracts](https://github.com/abhi3700/evm_contracts_vestingall)
   - [Generative Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/generative_nft_art)
   - [Manual Art as NFT](https://github.com/abhi3700/My_Learning_NFT/tree/main/libs/pin-to-ipfs/pinata/manual)
+</details>
 
-### Contribution related to Substrate, Polkadot, Kusama (Rust)
+<details>
+  <summary><b>Substrate, Polkadot, Kusama (in Rust 🦀)</b></summary>
 
-- **Open Source Projects**:
+- **Open-source Projects**:
   - [paritytech/substrate | [Fix] Update Pallet placeholder struct as per FRAME v2](https://github.com/paritytech/substrate/pull/14348)
   - [paritytech/ink | [Feat] Added Debug trait for EmittedEvent](https://github.com/paritytech/ink/pull/1583)
   - [rusty-crewmates/substrate-tutorials | Code improvement as per FRAME v3](https://github.com/rusty-crewmates/substrate-tutorials/issues/40)
@@ -79,23 +97,36 @@ This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume
 - `ink!` smart contracts:
   - [Ownable Flipper SC](https://github.com/abhi3700/substrate_sc_flipper)
   - [Counter SC](https://github.com/abhi3700/substrate_sc_counter)
+</details>
 
-### Contribution related to Aptos, Sui (Move)
+<details>
+  <summary><b>Aptos, Sui (in Move 🦀)</b></summary>
 
-- **Open Source Projects**:
-  - [MystenLabs/sui | [Fix] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
-  - [MystenLabs/sui | [Feat] Add tests for pay module](https://github.com/MystenLabs/sui/pull/13074)
+- [MystenLabs/sui | [Fix] swap arguments in mint function for trusted_coin module](https://github.com/MystenLabs/sui/pull/13053)
+- [MystenLabs/sui | [Feat] Add tests for pay module](https://github.com/MystenLabs/sui/pull/13074)
+</details>
 
-### Contribution related to EOSIO Blockchains
+<details>
+  <summary><b>EOSIO Blockchains (in C++)</b></summary>
 
-- **Open Source Projects**:
-  - [Documentation | Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 - [TOE: Transporation Services (Taxi, Bikes, Metro, Bus) on EOSIO](https://github.com/abhi3700/toe_contracts)
 - [ICO contract](https://github.com/abhi3700/eosio_dci_contracts/tree/master/dciico)
 - Rehabilitation centre: [Stake contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumstake), [ICO contract](https://github.com/abhi3700/eosio_tropium_contracts/tree/master/tropiumico)
+- [Documentation | Setting up Telos Validator Nodes](https://docs.telos.net/validator-nodes/setting-up-telos-validator-nodes#what-is-the-role-of-a-telos-validator)
 - GPK.Battles Game on WAX Blockchain: [Game contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbattlesco), [Escrow contract](https://github.com/GPKBattles/eosio_gpkbattles_contracts/tree/master/2_testnet/gpkbatescrow)
 - Tip multiple tokens to user(s) on Telegram: [Contract](https://github.com/abhi3700/eosio_tipuser_contracts/tree/main/tippertipper), [Bot](https://github.com/abhi3700/tipuser_bot)
 - Submit KYC on Blockchain: [Contract](https://github.com/abhi3700/eosio_kyc_contracts), [Bot](https://github.com/abhi3700/kyc_bot)
 - [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
+</details>
+
+## Backend
+
+I am well versed in API development with:
+- Axum (in Rust 🦀)
+- NextJS (in TypeScript)
+
+## AI (LLM)
+
+- Plagiarism detection on text embeddings via LSH random projection with Python & Rust. [Repo](https://github.com/abhi3700/semantic-hashing-demo). Also did in [Rust 🦀](https://github.com/abhi3700/semantic-hashing-demo-rs) to minimize runtime overhead due to lang.
 
 Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dalvath3700@gmail.com) me to <kbd>dalvath3700@gmail.com</kbd> or create issue here in this repo.!
