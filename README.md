@@ -127,6 +127,6 @@ I am well versed in API development with:
 
 ## AI (LLM)
 
-- Plagiarism detection on text embeddings via LSH random projection with Python & Rust. [Repo](https://github.com/abhi3700/semantic-hashing-demo). Also did in [Rust 🦀](https://github.com/abhi3700/semantic-hashing-demo-rs) to minimize runtime overhead due to lang.
+- Plagiarism detection on text embeddings via LSH random projection with [Python](https://github.com/abhi3700/semantic-hashing-demo) & also in [Rust 🦀](https://github.com/abhi3700/semantic-hashing-demo-rs) for faster runtime.
 
 Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dalvath3700@gmail.com) me to <kbd>dalvath3700@gmail.com</kbd> or create issue here in this repo.!
