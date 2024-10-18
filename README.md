@@ -121,12 +121,17 @@ TypeScript; also, extensive Foundry unit & integration testing done; found secur
 
 ## Backend
 
-I am well versed in API development with:
-- Axum (in Rust 🦀)
-- NextJS (in TypeScript)
+I am well versed with:
+- Rust 🦀
+  - Axum
+  - Cron Job
+  - [ ] Kafka
+- TS
+  - NextJS
 
 ## AI (LLM)
 
 - Plagiarism detection on text embeddings via LSH random projection with [Python](https://github.com/abhi3700/semantic-hashing-demo) & also in [Rust 🦀](https://github.com/abhi3700/semantic-hashing-demo-rs) for faster runtime.
 
-Feel free to reach out on the [Telegram](https://t.me/abhi3700) directly. And if not available, [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dalvath3700@gmail.com) me to <kbd>dalvath3700@gmail.com</kbd> or create issue here in this repo.!
+---
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abhi3700/) or [Telegram](https://t.me/abhi3700) for quick chat. And if not available, [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dalvath3700@gmail.com) me to <kbd>dalvath3700@gmail.com</kbd> or create issue here in this repo.!
