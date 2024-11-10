@@ -125,6 +125,8 @@ I am well versed with:
 - Rust 🦀
   - Axum
   - Cron Job
+  - Dioxus
+  - Databases: MongoDB, Redis
   - [ ] Kafka
 - TS
   - NextJS
