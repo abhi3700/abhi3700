@@ -59,6 +59,7 @@ TypeScript; also, extensive Foundry unit & integration testing done; found secur
 - Using Yul:
   - Gas analysis for [ADD](https://github.com/abhi3700/evm_playground/blob/main/docs/add_comparo_yul.pdf), [SUB](https://github.com/abhi3700/evm_playground/blob/main/docs/sub_comparo_yul.pdf)
 - Using Foundry:
+  - [Multi-Strategy ERC-4626 Vault](https://github.com/abhi3700/multi-strategy-vault)  
   - [Autcompound Vault based on Tetu protocol formula](https://github.com/abhi3700/evm_contracts_vaultautocomp)
 - Using Hardhat:
   - [CDP based stablecoin using Diamond Standard](https://github.com/abhi3700/evm_stablecoin_ds)
