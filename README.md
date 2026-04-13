@@ -28,7 +28,7 @@ projects as well.
 
 ## CV
 
-This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume_v2.pdf).
+This is my latest [CV](https://github.com/abhi3700/my_resume/blob/main/my_resume.pdf).
 
 > Please <kbd>download</kbd> to view <kbd>view</kbd> in "Adobe PDF Reader" App for clickable links.
 
@@ -128,7 +128,7 @@ I am well versed with:
   - Cron Job
   - Dioxus
   - Databases: MongoDB, Redis
-  - [ ] Kafka
+
 - TS
   - NextJS
 
