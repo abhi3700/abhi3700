@@ -28,7 +28,7 @@ Passionate about **Rust, cryptography, and scalable blockchain systems**.
 
 ## CV
 
-This is my latest [CV](https://abhi3700.com/my_resume.pdf).
+View [here](https://abhi3700.com/my_resume.pdf) ↗️.
 
 ## Blockchain
 
