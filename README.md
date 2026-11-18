@@ -118,20 +118,38 @@ TypeScript; also, extensive Foundry unit & integration testing done; found secur
 - [Ceven.Parks SNI Hackathon 2021 (02-04 Jul, 2021): Provides a digital identity for parks to enable humans to interact with and take care of them.](https://github.com/abhi3700/eosio_cevenparks_contracts/tree/main/cevenparksio)
 </details>
 
-## Full-stack
+## Frontend, Backend, DevOps
 
-### Rust 🦀
-- [x] Axum
-- [x] Cron Job
+<details>
+<summary><b>Rust 🦀</b></summary>
+
+- [x] API: Axum, Actix.
+- [x] Cron Job.
 - [x] Frontend: Dioxus.
 - [x] Databases: MongoDB, Redis.
-- Messaging channel
-  - [x] Redis pubsub
+- [x] Concurrency: Tokio.
+- [x] Messaging channel: Redis pubsub.
 
-### TypeScript
+</details>
+
+<details>
+<summary><b>TypeScript</b></summary>
 
 - [x] NextJS
 - [x] Vite
+
+</details>
+
+<details>
+<summary><b>DevOps</b></summary>
+
+- [x] Docker
+- [x] CI/CD
+- [x] Script (Bash, ..)
+- [x] CLI, TUI
+
+</details>
+
 
 ## AI (LLM)
 
