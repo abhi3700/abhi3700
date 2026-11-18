@@ -22,9 +22,9 @@ My Portfolio 👉 https://abhi3700.com/
 
 **Web3 & Blockchain Engineer with 10+ years of experience**, including CTO, Founding Engineer, and Blockchain Lead roles. Open-source contributor to **OpenZeppelin, LayerZero**, and others.
 
-Focused on **Rust, blockchain infrastructure, and developer tools**. Built **10x** (trading infrastructure), **UniFi** (Rust-based stablecoin payments with up to 90% lower on-chain fees), and **Unio** (self-custodial agentic wallet).
+Focused on **Rust, Solidity, blockchain infrastructure, and developer tools**. Built **10x** (trading infrastructure), **UniFi** (Rust-based stablecoin payments with up to 90% lower on-chain fees), and **Unio** (self-custodial agentic wallet).
 
-Passionate about **Rust, cryptography, and scalable blockchain systems**.
+Passionate about **Rust, Solidity, cryptography, and scalable blockchain systems**.
 
 ## CV
 
@@ -123,10 +123,10 @@ TypeScript; also, extensive Foundry unit & integration testing done; found secur
 ### Rust 🦀
 - [x] Axum
 - [x] Cron Job
+- [x] Frontend: Dioxus.
+- [x] Databases: MongoDB, Redis.
 - Messaging channel
   - [x] Redis pubsub
-- [x] Frontend: Dioxus.
-- [x] Databases: MongoDB, Redis
 
 ### TypeScript
 
